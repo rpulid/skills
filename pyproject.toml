@@ -1,0 +1,23 @@
+[project]
+name = "skills-bundle"
+version = "0.1.0"
+description = "Meta‑bundle of Claude Code and Codex skill bundles"
+authors = [{name = "Rodrigo Pulido", email = "r@pulido.org"}]
+requires-python = ">=3.11"
+license = {text = "MIT"}
+readme = "README.md"
+
+# Production dependencies – minimal runtime requirements
+dependencies = [
+    "requests>=2.31.0",
+    "python-dotenv>=1.2.4",
+]
+
+# Development dependencies for tooling and testing
+optional-dependencies = { dev = [
+    "ruff",
+    "mypy",
+    "pytest",
+    "detect-secrets",
+    "pip-audit",
+] }

@@ -1,0 +1,19 @@
+# Ignore nested Git repositories copied as part of skill bundles
+skills/TierraDeHongos/
+*.env
+uv.lock
+__pycache__/
+*.pyc
+claude.settings
+**/.git
+venv/
+**/venv/
+.migration-plan/
+.migration-plan
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+node_modules/
+**/node_modules/
+.claude/
+.git-rewrite/

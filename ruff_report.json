@@ -1,0 +1,6020 @@
+[
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 28
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/examples/deploy-coding-agent/skills/code-review/lint_check.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 28
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 28,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 265
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/libs/cli/deepagents_cli/built_in_skills/skill-creator/scripts/init_skill.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 265
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 265,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 279
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/libs/cli/deepagents_cli/built_in_skills/skill-creator/scripts/init_skill.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 279
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 279,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 306
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/libs/cli/deepagents_cli/built_in_skills/skill-creator/scripts/init_skill.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 306
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 306,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 19,
+      "row": 20
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/libs/cli/deepagents_cli/built_in_skills/skill-creator/scripts/quick_validate.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 20
+    },
+    "message": "`validate_skill` is too complex (22 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 20,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 40
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/arxiv-search/arxiv_search.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 40
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 40,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 221
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/skill-creator/scripts/init_skill.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 221
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 221,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 235
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/skill-creator/scripts/init_skill.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 235
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 235,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 262
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/skill-creator/scripts/init_skill.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 262
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 262,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 19,
+      "row": 20
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/skill-creator/scripts/quick_validate.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 20
+    },
+    "message": "`validate_skill` is too complex (20 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 20,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "PLW2901",
+    "end_location": {
+      "column": 13,
+      "row": 133
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-domain/extract-domain-context.py",
+    "fix": null,
+    "location": {
+      "column": 9,
+      "row": 133
+    },
+    "message": "`for` loop variable `line` overwritten by assignment target",
+    "name": "redefined-loop-name",
+    "noqa_row": 133,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/redefined-loop-name"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 19,
+      "row": 157
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-domain/extract-domain-context.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 157
+    },
+    "message": "`scan_file_tree` is too complex (14 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 157,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 14,
+      "row": 165
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-domain/extract-domain-context.py",
+    "fix": null,
+    "location": {
+      "column": 9,
+      "row": 165
+    },
+    "message": "`_walk` is too complex (13 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 165,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 428
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-domain/extract-domain-context.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 428
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 428,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 10,
+      "row": 119
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-knowledge/merge-knowledge-graph.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 119
+    },
+    "message": "`merge` is too complex (46 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 119,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 32,
+      "row": 383
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-knowledge/merge-knowledge-graph.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 385
+          },
+          "location": {
+            "column": 13,
+            "row": 385
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 18,
+      "row": 383
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 383,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 28,
+      "row": 143
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-knowledge/parse-knowledge-base.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 143
+    },
+    "message": "`extract_first_paragraph` is too complex (15 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 143,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 15,
+      "row": 322
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-knowledge/parse-knowledge-base.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 322
+    },
+    "message": "`parse_wiki` is too complex (32 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 322,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "F841",
+    "end_location": {
+      "column": 17,
+      "row": 394
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-knowledge/parse-knowledge-base.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "",
+          "end_location": {
+            "column": 20,
+            "row": 394
+          },
+          "location": {
+            "column": 9,
+            "row": 394
+          }
+        }
+      ],
+      "message": "Remove assignment to unused variable `headings`"
+    },
+    "location": {
+      "column": 9,
+      "row": 394
+    },
+    "message": "Local variable `headings` is assigned to but never used",
+    "name": "unused-variable",
+    "noqa_row": 394,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/unused-variable"
+  },
+  {
+    "cell": null,
+    "code": "F841",
+    "end_location": {
+      "column": 19,
+      "row": 395
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-knowledge/parse-knowledge-base.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "",
+          "end_location": {
+            "column": 22,
+            "row": 395
+          },
+          "location": {
+            "column": 9,
+            "row": 395
+          }
+        }
+      ],
+      "message": "Remove assignment to unused variable `code_langs`"
+    },
+    "location": {
+      "column": 9,
+      "row": 395
+    },
+    "message": "Local variable `code_langs` is assigned to but never used",
+    "name": "unused-variable",
+    "noqa_row": 395,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/unused-variable"
+  },
+  {
+    "cell": null,
+    "code": "F841",
+    "end_location": {
+      "column": 19,
+      "row": 397
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-knowledge/parse-knowledge-base.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "",
+          "end_location": {
+            "column": 22,
+            "row": 397
+          },
+          "location": {
+            "column": 9,
+            "row": 397
+          }
+        }
+      ],
+      "message": "Remove assignment to unused variable `line_count`"
+    },
+    "location": {
+      "column": 9,
+      "row": 397
+    },
+    "message": "Local variable `line_count` is assigned to but never used",
+    "name": "unused-variable",
+    "noqa_row": 397,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/unused-variable"
+  },
+  {
+    "cell": null,
+    "code": "F841",
+    "end_location": {
+      "column": 19,
+      "row": 398
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand-knowledge/parse-knowledge-base.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "",
+          "end_location": {
+            "column": 22,
+            "row": 398
+          },
+          "location": {
+            "column": 9,
+            "row": 398
+          }
+        }
+      ],
+      "message": "Remove assignment to unused variable `word_count`"
+    },
+    "location": {
+      "column": 9,
+      "row": 398
+    },
+    "message": "Local variable `word_count` is assigned to but never used",
+    "name": "unused-variable",
+    "noqa_row": 398,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/unused-variable"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 26,
+      "row": 405
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 405
+    },
+    "message": "`production_candidates` is too complex (41 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 405,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 84,
+      "row": 491
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[\"src\", \"main\", \"java\", *list(dir_segs[3:])]",
+          "end_location": {
+            "column": 84,
+            "row": 491
+          },
+          "location": {
+            "column": 40,
+            "row": 491
+          }
+        }
+      ],
+      "message": "Replace with `[\"src\", \"main\", \"java\", *list(dir_segs[3:])]`"
+    },
+    "location": {
+      "column": 40,
+      "row": 491
+    },
+    "message": "Consider `[\"src\", \"main\", \"java\", *list(dir_segs[3:])]` instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 491,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 86,
+      "row": 508
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[\"src\", \"main\", \"kotlin\", *list(dir_segs[3:])]",
+          "end_location": {
+            "column": 86,
+            "row": 508
+          },
+          "location": {
+            "column": 40,
+            "row": 508
+          }
+        }
+      ],
+      "message": "Replace with `[\"src\", \"main\", \"kotlin\", *list(dir_segs[3:])]`"
+    },
+    "location": {
+      "column": 40,
+      "row": 508
+    },
+    "message": "Consider `[\"src\", \"main\", \"kotlin\", *list(dir_segs[3:])]` instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 508,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 54,
+      "row": 525
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*list(dir_segs[:i]), \"src\", \"main\", \"scala\", *list(dir_segs[i + 3:])]",
+          "end_location": {
+            "column": 54,
+            "row": 525
+          },
+          "location": {
+            "column": 29,
+            "row": 523
+          }
+        }
+      ],
+      "message": "Replace with iterable unpacking"
+    },
+    "location": {
+      "column": 29,
+      "row": 523
+    },
+    "message": "Consider iterable unpacking instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 523,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 15,
+      "row": 640
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 640
+    },
+    "message": "`link_tests` is too complex (21 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 640,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 24,
+      "row": 808
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 808
+    },
+    "message": "`merge_and_normalize` is too complex (35 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 808,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 48,
+      "row": 949
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 47,
+      "row": 949
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 949,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 48,
+      "row": 952
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 47,
+      "row": 952
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 952,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 54,
+      "row": 954
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 53,
+      "row": 954
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 954,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 54,
+      "row": 956
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 53,
+      "row": 956
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 956,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 56,
+      "row": 958
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 55,
+      "row": 958
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 958,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 56,
+      "row": 960
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 55,
+      "row": 960
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 960,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 49,
+      "row": 980
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 48,
+      "row": 980
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 980,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 50,
+      "row": 981
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 49,
+      "row": 981
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 981,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 43,
+      "row": 994
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 42,
+      "row": 994
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 994,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 43,
+      "row": 997
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 42,
+      "row": 997
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 997,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 30,
+      "row": 1066
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 1066
+    },
+    "message": "`recover_imports_from_scan` is too complex (17 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 1066,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 1154
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 1154
+    },
+    "message": "`main` is too complex (26 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 1154,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "RUF059",
+    "end_location": {
+      "column": 14,
+      "row": 1329
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-batch-graphs.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "_recovered",
+          "end_location": {
+            "column": 14,
+            "row": 1329
+          },
+          "location": {
+            "column": 5,
+            "row": 1329
+          }
+        }
+      ],
+      "message": "Prefix it with an underscore or any other dummy variable pattern"
+    },
+    "location": {
+      "column": 5,
+      "row": 1329
+    },
+    "message": "Unpacked variable `recovered` is never used",
+    "name": "unused-unpacked-variable",
+    "noqa_row": 1329,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/unused-unpacked-variable"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 17,
+      "row": 66
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-subdomain-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 66
+    },
+    "message": "`merge_graphs` is too complex (43 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 66,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 48,
+      "row": 220
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-subdomain-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 47,
+      "row": 220
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 220,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 55,
+      "row": 222
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-subdomain-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 54,
+      "row": 222
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 222,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 57,
+      "row": 224
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-subdomain-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 56,
+      "row": 224
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 224,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 56,
+      "row": 226
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-subdomain-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 55,
+      "row": 226
+    },
+    "message": "String contains ambiguous `×` (MULTIPLICATION SIGN). Did you mean `x` (LATIN SMALL LETTER X)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 226,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 312
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/Understand-Anything/understand-anything-plugin/skills/understand/merge-subdomain-graphs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 312
+    },
+    "message": "`main` is too complex (14 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 312,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "E402",
+    "end_location": {
+      "column": 2,
+      "row": 32
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/__init__.py",
+    "fix": null,
+    "location": {
+      "column": 1,
+      "row": 16
+    },
+    "message": "Module level import not at top of file",
+    "name": "module-import-not-at-top-of-file",
+    "noqa_row": 16,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/module-import-not-at-top-of-file"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 23,
+      "row": 69
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/_env.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 69
+    },
+    "message": "Using the global statement to update `_ENV_LOADED` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 69,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 69,
+      "row": 225
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*shlex.split(cmd), \"unpublish\", post_group_id or \"\"]",
+          "end_location": {
+            "column": 69,
+            "row": 225
+          },
+          "location": {
+            "column": 16,
+            "row": 225
+          }
+        }
+      ],
+      "message": "Replace with iterable unpacking"
+    },
+    "location": {
+      "column": 16,
+      "row": 225
+    },
+    "message": "Consider iterable unpacking instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 225,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 226
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 228
+          },
+          "location": {
+            "column": 13,
+            "row": 228
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 226
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 226,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 12,
+      "row": 243
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 243
+    },
+    "message": "`publish` is too complex (13 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 243,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 53,
+      "row": 357
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*shlex.split(cmd), kind, target_url]",
+          "end_location": {
+            "column": 53,
+            "row": 357
+          },
+          "location": {
+            "column": 16,
+            "row": 357
+          }
+        }
+      ],
+      "message": "Replace with `[*shlex.split(cmd), kind, target_url]`"
+    },
+    "location": {
+      "column": 16,
+      "row": 357
+    },
+    "message": "Consider `[*shlex.split(cmd), kind, target_url]` instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 357,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 358
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 360
+          },
+          "location": {
+            "column": 13,
+            "row": 360
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 358
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 358,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 27,
+      "row": 528
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 528
+    },
+    "message": "Using the global statement to update `_PIXFARO_CLIENT` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 528,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 48,
+      "row": 528
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 29,
+      "row": 528
+    },
+    "message": "Using the global statement to update `_PIXFARO_CLIENT_KEY` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 528,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "RUF012",
+    "end_location": {
+      "column": 6,
+      "row": 154
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/publora_client.py",
+    "fix": null,
+    "location": {
+      "column": 24,
+      "row": 147
+    },
+    "message": "Mutable default value for class attribute",
+    "name": "mutable-class-default",
+    "noqa_row": 147,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/mutable-class-default"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 85
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_actor_inputs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 85
+    },
+    "message": "`main` is too complex (15 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 85,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 88
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_actor_inputs.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 88
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 88,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 148
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 148
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 148,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 18,
+      "row": 152
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 152
+    },
+    "message": "`check_publora` is too complex (13 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 152,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 217
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 217
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 217,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 18,
+      "row": 221
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 221
+    },
+    "message": "`check_pixfaro` is too complex (11 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 221,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 274
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 274
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 274,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 285
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 285
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 285,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 61
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_no_secrets.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 61
+    },
+    "message": "`main` is too complex (11 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 61,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "E402",
+    "end_location": {
+      "column": 72,
+      "row": 27
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 1,
+      "row": 27
+    },
+    "message": "Module level import not at top of file",
+    "name": "module-import-not-at-top-of-file",
+    "noqa_row": 27,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/module-import-not-at-top-of-file"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 85
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 85
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 85,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 99
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 99
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 99,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 105
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/schedule_post.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 105
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 105,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 32,
+      "row": 88
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 92
+          },
+          "location": {
+            "column": 13,
+            "row": 92
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 18,
+      "row": 88
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 88,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 97
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 97
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 97,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 33,
+      "row": 125
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 34,
+            "row": 126
+          },
+          "location": {
+            "column": 34,
+            "row": 126
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 19,
+      "row": 125
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 125,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 23,
+      "row": 130
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 53,
+            "row": 130
+          },
+          "location": {
+            "column": 53,
+            "row": 130
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 9,
+      "row": 130
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 130,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 149
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 149
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 149,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 19,
+      "row": 153
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 153
+    },
+    "message": "`phase_accounts` is too complex (17 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 153,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 28,
+      "row": 257
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 29,
+            "row": 258
+          },
+          "location": {
+            "column": 29,
+            "row": 258
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 14,
+      "row": 257
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 257,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 29,
+      "row": 275
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 59,
+            "row": 275
+          },
+          "location": {
+            "column": 59,
+            "row": 275
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 15,
+      "row": 275
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 275,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "E741",
+    "end_location": {
+      "column": 45,
+      "row": 315
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 44,
+      "row": 315
+    },
+    "message": "Ambiguous variable name: `l`",
+    "name": "ambiguous-variable-name",
+    "noqa_row": 315,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-variable-name"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 15,
+      "row": 326
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 326
+    },
+    "message": "`phase_live` is too complex (15 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 326,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 352
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 352
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 352,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 361
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 361
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 361,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 377
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 377
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 377,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 33,
+      "row": 452
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 34,
+            "row": 453
+          },
+          "location": {
+            "column": 34,
+            "row": 453
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 19,
+      "row": 452
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 452,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 469
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 31,
+            "row": 470
+          },
+          "location": {
+            "column": 31,
+            "row": 470
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 469
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 469,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 72
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 72
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 72,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 91
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 91
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 91,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 110
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 110
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 110,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 128
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 128
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 128,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 175
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 175
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 175,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "RUF059",
+    "end_location": {
+      "column": 21,
+      "row": 98
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/evals/run_evals.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "_threaded",
+          "end_location": {
+            "column": 21,
+            "row": 98
+          },
+          "location": {
+            "column": 13,
+            "row": 98
+          }
+        }
+      ],
+      "message": "Prefix it with an underscore or any other dummy variable pattern"
+    },
+    "location": {
+      "column": 13,
+      "row": 98
+    },
+    "message": "Unpacked variable `threaded` is never used",
+    "name": "unused-unpacked-variable",
+    "noqa_row": 98,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/unused-unpacked-variable"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 32,
+      "row": 245
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/evals/run_evals.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 249
+          },
+          "location": {
+            "column": 13,
+            "row": 249
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 18,
+      "row": 245
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 245,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "E402",
+    "end_location": {
+      "column": 2,
+      "row": 32
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/__init__.py",
+    "fix": null,
+    "location": {
+      "column": 1,
+      "row": 16
+    },
+    "message": "Module level import not at top of file",
+    "name": "module-import-not-at-top-of-file",
+    "noqa_row": 16,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/module-import-not-at-top-of-file"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 23,
+      "row": 69
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/_env.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 69
+    },
+    "message": "Using the global statement to update `_ENV_LOADED` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 69,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 69,
+      "row": 225
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*shlex.split(cmd), \"unpublish\", post_group_id or \"\"]",
+          "end_location": {
+            "column": 69,
+            "row": 225
+          },
+          "location": {
+            "column": 16,
+            "row": 225
+          }
+        }
+      ],
+      "message": "Replace with iterable unpacking"
+    },
+    "location": {
+      "column": 16,
+      "row": 225
+    },
+    "message": "Consider iterable unpacking instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 225,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 226
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 228
+          },
+          "location": {
+            "column": 13,
+            "row": 228
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 226
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 226,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 12,
+      "row": 243
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 243
+    },
+    "message": "`publish` is too complex (13 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 243,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 53,
+      "row": 357
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*shlex.split(cmd), kind, target_url]",
+          "end_location": {
+            "column": 53,
+            "row": 357
+          },
+          "location": {
+            "column": 16,
+            "row": 357
+          }
+        }
+      ],
+      "message": "Replace with `[*shlex.split(cmd), kind, target_url]`"
+    },
+    "location": {
+      "column": 16,
+      "row": 357
+    },
+    "message": "Consider `[*shlex.split(cmd), kind, target_url]` instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 357,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 358
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 360
+          },
+          "location": {
+            "column": 13,
+            "row": 360
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 358
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 358,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 27,
+      "row": 528
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 528
+    },
+    "message": "Using the global statement to update `_PIXFARO_CLIENT` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 528,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 48,
+      "row": 528
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 29,
+      "row": 528
+    },
+    "message": "Using the global statement to update `_PIXFARO_CLIENT_KEY` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 528,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "RUF012",
+    "end_location": {
+      "column": 6,
+      "row": 154
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/lib/publora_client.py",
+    "fix": null,
+    "location": {
+      "column": 24,
+      "row": 147
+    },
+    "message": "Mutable default value for class attribute",
+    "name": "mutable-class-default",
+    "noqa_row": 147,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/mutable-class-default"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 85
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/check_actor_inputs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 85
+    },
+    "message": "`main` is too complex (15 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 85,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 88
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/check_actor_inputs.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 88
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 88,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 148
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 148
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 148,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 18,
+      "row": 152
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 152
+    },
+    "message": "`check_publora` is too complex (13 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 152,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 217
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 217
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 217,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 18,
+      "row": 221
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 221
+    },
+    "message": "`check_pixfaro` is too complex (11 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 221,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 274
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 274
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 274,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 285
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 285
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 285,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 61
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/check_no_secrets.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 61
+    },
+    "message": "`main` is too complex (11 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 61,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "E402",
+    "end_location": {
+      "column": 72,
+      "row": 27
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 1,
+      "row": 27
+    },
+    "message": "Module level import not at top of file",
+    "name": "module-import-not-at-top-of-file",
+    "noqa_row": 27,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/module-import-not-at-top-of-file"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 85
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 85
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 85,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 99
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 99
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 99,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 105
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/schedule_post.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 105
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 105,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 32,
+      "row": 88
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 92
+          },
+          "location": {
+            "column": 13,
+            "row": 92
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 18,
+      "row": 88
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 88,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 97
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 97
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 97,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 33,
+      "row": 125
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 34,
+            "row": 126
+          },
+          "location": {
+            "column": 34,
+            "row": 126
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 19,
+      "row": 125
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 125,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 23,
+      "row": 130
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 53,
+            "row": 130
+          },
+          "location": {
+            "column": 53,
+            "row": 130
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 9,
+      "row": 130
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 130,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 149
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 149
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 149,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 19,
+      "row": 153
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 153
+    },
+    "message": "`phase_accounts` is too complex (17 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 153,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 28,
+      "row": 257
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 29,
+            "row": 258
+          },
+          "location": {
+            "column": 29,
+            "row": 258
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 14,
+      "row": 257
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 257,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 29,
+      "row": 275
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 59,
+            "row": 275
+          },
+          "location": {
+            "column": 59,
+            "row": 275
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 15,
+      "row": 275
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 275,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "E741",
+    "end_location": {
+      "column": 45,
+      "row": 315
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 44,
+      "row": 315
+    },
+    "message": "Ambiguous variable name: `l`",
+    "name": "ambiguous-variable-name",
+    "noqa_row": 315,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-variable-name"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 15,
+      "row": 326
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 326
+    },
+    "message": "`phase_live` is too complex (15 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 326,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 352
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 352
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 352,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 361
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 361
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 361,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 377
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 377
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 377,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 33,
+      "row": 452
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 34,
+            "row": 453
+          },
+          "location": {
+            "column": 34,
+            "row": 453
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 19,
+      "row": 452
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 452,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 469
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 31,
+            "row": 470
+          },
+          "location": {
+            "column": 31,
+            "row": 470
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 469
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 469,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 73
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/scripts/sync_codex_marketplace.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 31,
+            "row": 74
+          },
+          "location": {
+            "column": 31,
+            "row": 74
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 73
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 73,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 72
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 72
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 72,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 91
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 91
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 91,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 110
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 110
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 110,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 128
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 128
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 128,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 175
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 175
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 175,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 72
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 72
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 72,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 91
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 91
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 91,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 110
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 110
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 110,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 128
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 128
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 128,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 175
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 175
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 175,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 72,
+      "row": 113
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/tests/test_instruction_integrity.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*markdown(ROOT / \"skills\"), ROOT / \"SKILL.md\"]",
+          "end_location": {
+            "column": 72,
+            "row": 113
+          },
+          "location": {
+            "column": 25,
+            "row": 113
+          }
+        }
+      ],
+      "message": "Replace with `[*markdown(ROOT / \"skills\"), ROOT / \"SKILL.md\"]`"
+    },
+    "location": {
+      "column": 25,
+      "row": 113
+    },
+    "message": "Consider `[*markdown(ROOT / \"skills\"), ROOT / \"SKILL.md\"]` instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 113,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 40,
+      "row": 226
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/tests/test_instruction_integrity.py",
+    "fix": null,
+    "location": {
+      "column": 39,
+      "row": 226
+    },
+    "message": "String contains ambiguous `–` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 226,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF012",
+    "end_location": {
+      "column": 6,
+      "row": 296
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/tests/test_instruction_integrity.py",
+    "fix": null,
+    "location": {
+      "column": 13,
+      "row": 293
+    },
+    "message": "Mutable default value for class attribute",
+    "name": "mutable-class-default",
+    "noqa_row": 293,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/mutable-class-default"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 101,
+      "row": 35
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/tests/test_publora_shapes.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "(*PubloraClient.LIVE_STATUSES, \"draft\", \"scheduled\", \"failed\")",
+          "end_location": {
+            "column": 101,
+            "row": 35
+          },
+          "location": {
+            "column": 39,
+            "row": 35
+          }
+        }
+      ],
+      "message": "Replace with iterable unpacking"
+    },
+    "location": {
+      "column": 39,
+      "row": 35
+    },
+    "message": "Consider iterable unpacking instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 35,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "RUF012",
+    "end_location": {
+      "column": 6,
+      "row": 198
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/tests/test_response_shapes.py",
+    "fix": null,
+    "location": {
+      "column": 15,
+      "row": 191
+    },
+    "message": "Mutable default value for class attribute",
+    "name": "mutable-class-default",
+    "noqa_row": 191,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/mutable-class-default"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 26,
+      "row": 69
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/tests/test_text_encoding.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 52,
+            "row": 69
+          },
+          "location": {
+            "column": 52,
+            "row": 69
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 12,
+      "row": 69
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 69,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 48,
+      "row": 91
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/tests/test_text_encoding.py",
+    "fix": null,
+    "location": {
+      "column": 47,
+      "row": 91
+    },
+    "message": "String contains ambiguous `’` (RIGHT SINGLE QUOTATION MARK). Did you mean ``` (GRAVE ACCENT)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 91,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 29,
+      "row": 99
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/linkedin-skills/tests/test_text_encoding.py",
+    "fix": null,
+    "location": {
+      "column": 28,
+      "row": 99
+    },
+    "message": "String contains ambiguous `’` (RIGHT SINGLE QUOTATION MARK). Did you mean ``` (GRAVE ACCENT)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 99,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 28
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/AI_Research/deepagents/examples/deploy-coding-agent/skills/code-review/lint_check.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 28
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 28,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 40
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/arxiv-search/arxiv_search.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 40
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 40,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 221
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/skill-creator/scripts/init_skill.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 221
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 221,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 235
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/skill-creator/scripts/init_skill.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 235
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 235,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 262
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/skill-creator/scripts/init_skill.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 262
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 262,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 19,
+      "row": 20
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/AI_Research/deepagents/libs/cli/examples/skills/skill-creator/scripts/quick_validate.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 20
+    },
+    "message": "`validate_skill` is too complex (20 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 20,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "E402",
+    "end_location": {
+      "column": 2,
+      "row": 32
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/__init__.py",
+    "fix": null,
+    "location": {
+      "column": 1,
+      "row": 16
+    },
+    "message": "Module level import not at top of file",
+    "name": "module-import-not-at-top-of-file",
+    "noqa_row": 16,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/module-import-not-at-top-of-file"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 23,
+      "row": 69
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/_env.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 69
+    },
+    "message": "Using the global statement to update `_ENV_LOADED` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 69,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 69,
+      "row": 225
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*shlex.split(cmd), \"unpublish\", post_group_id or \"\"]",
+          "end_location": {
+            "column": 69,
+            "row": 225
+          },
+          "location": {
+            "column": 16,
+            "row": 225
+          }
+        }
+      ],
+      "message": "Replace with iterable unpacking"
+    },
+    "location": {
+      "column": 16,
+      "row": 225
+    },
+    "message": "Consider iterable unpacking instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 225,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 226
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 228
+          },
+          "location": {
+            "column": 13,
+            "row": 228
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 226
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 226,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 12,
+      "row": 243
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 243
+    },
+    "message": "`publish` is too complex (13 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 243,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 53,
+      "row": 357
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*shlex.split(cmd), kind, target_url]",
+          "end_location": {
+            "column": 53,
+            "row": 357
+          },
+          "location": {
+            "column": 16,
+            "row": 357
+          }
+        }
+      ],
+      "message": "Replace with `[*shlex.split(cmd), kind, target_url]`"
+    },
+    "location": {
+      "column": 16,
+      "row": 357
+    },
+    "message": "Consider `[*shlex.split(cmd), kind, target_url]` instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 357,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 358
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 360
+          },
+          "location": {
+            "column": 13,
+            "row": 360
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 358
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 358,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 27,
+      "row": 528
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 528
+    },
+    "message": "Using the global statement to update `_PIXFARO_CLIENT` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 528,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 48,
+      "row": 528
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 29,
+      "row": 528
+    },
+    "message": "Using the global statement to update `_PIXFARO_CLIENT_KEY` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 528,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "RUF012",
+    "end_location": {
+      "column": 6,
+      "row": 154
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/lib/publora_client.py",
+    "fix": null,
+    "location": {
+      "column": 24,
+      "row": 147
+    },
+    "message": "Mutable default value for class attribute",
+    "name": "mutable-class-default",
+    "noqa_row": 147,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/mutable-class-default"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 85
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_actor_inputs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 85
+    },
+    "message": "`main` is too complex (15 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 85,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 88
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_actor_inputs.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 88
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 88,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 148
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 148
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 148,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 18,
+      "row": 152
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 152
+    },
+    "message": "`check_publora` is too complex (13 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 152,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 217
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 217
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 217,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 18,
+      "row": 221
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 221
+    },
+    "message": "`check_pixfaro` is too complex (11 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 221,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 274
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 274
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 274,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 285
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 285
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 285,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 61
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/check_no_secrets.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 61
+    },
+    "message": "`main` is too complex (11 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 61,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "E402",
+    "end_location": {
+      "column": 72,
+      "row": 27
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 1,
+      "row": 27
+    },
+    "message": "Module level import not at top of file",
+    "name": "module-import-not-at-top-of-file",
+    "noqa_row": 27,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/module-import-not-at-top-of-file"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 85
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 85
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 85,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 99
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 99
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 99,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 105
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/schedule_post.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 105
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 105,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 32,
+      "row": 88
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 92
+          },
+          "location": {
+            "column": 13,
+            "row": 92
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 18,
+      "row": 88
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 88,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 97
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 97
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 97,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 33,
+      "row": 125
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 34,
+            "row": 126
+          },
+          "location": {
+            "column": 34,
+            "row": 126
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 19,
+      "row": 125
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 125,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 23,
+      "row": 130
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 53,
+            "row": 130
+          },
+          "location": {
+            "column": 53,
+            "row": 130
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 9,
+      "row": 130
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 130,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 149
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 149
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 149,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 19,
+      "row": 153
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 153
+    },
+    "message": "`phase_accounts` is too complex (17 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 153,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 28,
+      "row": 257
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 29,
+            "row": 258
+          },
+          "location": {
+            "column": 29,
+            "row": 258
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 14,
+      "row": 257
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 257,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 29,
+      "row": 275
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 59,
+            "row": 275
+          },
+          "location": {
+            "column": 59,
+            "row": 275
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 15,
+      "row": 275
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 275,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "E741",
+    "end_location": {
+      "column": 45,
+      "row": 315
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 44,
+      "row": 315
+    },
+    "message": "Ambiguous variable name: `l`",
+    "name": "ambiguous-variable-name",
+    "noqa_row": 315,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-variable-name"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 15,
+      "row": 326
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 326
+    },
+    "message": "`phase_live` is too complex (15 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 326,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 352
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 352
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 352,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 361
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 361
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 361,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 377
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 377
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 377,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 33,
+      "row": 452
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 34,
+            "row": 453
+          },
+          "location": {
+            "column": 34,
+            "row": 453
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 19,
+      "row": 452
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 452,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 469
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 31,
+            "row": 470
+          },
+          "location": {
+            "column": 31,
+            "row": 470
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 469
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 469,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 72
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 72
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 72,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 91
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 91
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 91,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 110
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 110
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 110,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 128
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 128
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 128,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 175
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/.codex-marketplace/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 175
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 175,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "RUF059",
+    "end_location": {
+      "column": 21,
+      "row": 98
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/evals/run_evals.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "_threaded",
+          "end_location": {
+            "column": 21,
+            "row": 98
+          },
+          "location": {
+            "column": 13,
+            "row": 98
+          }
+        }
+      ],
+      "message": "Prefix it with an underscore or any other dummy variable pattern"
+    },
+    "location": {
+      "column": 13,
+      "row": 98
+    },
+    "message": "Unpacked variable `threaded` is never used",
+    "name": "unused-unpacked-variable",
+    "noqa_row": 98,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/unused-unpacked-variable"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 32,
+      "row": 245
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/evals/run_evals.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 249
+          },
+          "location": {
+            "column": 13,
+            "row": 249
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 18,
+      "row": 245
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 245,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "E402",
+    "end_location": {
+      "column": 2,
+      "row": 32
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/__init__.py",
+    "fix": null,
+    "location": {
+      "column": 1,
+      "row": 16
+    },
+    "message": "Module level import not at top of file",
+    "name": "module-import-not-at-top-of-file",
+    "noqa_row": 16,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/module-import-not-at-top-of-file"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 23,
+      "row": 69
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/_env.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 69
+    },
+    "message": "Using the global statement to update `_ENV_LOADED` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 69,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 69,
+      "row": 225
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*shlex.split(cmd), \"unpublish\", post_group_id or \"\"]",
+          "end_location": {
+            "column": 69,
+            "row": 225
+          },
+          "location": {
+            "column": 16,
+            "row": 225
+          }
+        }
+      ],
+      "message": "Replace with iterable unpacking"
+    },
+    "location": {
+      "column": 16,
+      "row": 225
+    },
+    "message": "Consider iterable unpacking instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 225,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 226
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 228
+          },
+          "location": {
+            "column": 13,
+            "row": 228
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 226
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 226,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 12,
+      "row": 243
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 243
+    },
+    "message": "`publish` is too complex (13 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 243,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 53,
+      "row": 357
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*shlex.split(cmd), kind, target_url]",
+          "end_location": {
+            "column": 53,
+            "row": 357
+          },
+          "location": {
+            "column": 16,
+            "row": 357
+          }
+        }
+      ],
+      "message": "Replace with `[*shlex.split(cmd), kind, target_url]`"
+    },
+    "location": {
+      "column": 16,
+      "row": 357
+    },
+    "message": "Consider `[*shlex.split(cmd), kind, target_url]` instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 357,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 358
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 360
+          },
+          "location": {
+            "column": 13,
+            "row": 360
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 358
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 358,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 27,
+      "row": 528
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 528
+    },
+    "message": "Using the global statement to update `_PIXFARO_CLIENT` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 528,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "PLW0603",
+    "end_location": {
+      "column": 48,
+      "row": 528
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/backend_selector.py",
+    "fix": null,
+    "location": {
+      "column": 29,
+      "row": 528
+    },
+    "message": "Using the global statement to update `_PIXFARO_CLIENT_KEY` is discouraged",
+    "name": "global-statement",
+    "noqa_row": 528,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/global-statement"
+  },
+  {
+    "cell": null,
+    "code": "RUF012",
+    "end_location": {
+      "column": 6,
+      "row": 154
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/lib/publora_client.py",
+    "fix": null,
+    "location": {
+      "column": 24,
+      "row": 147
+    },
+    "message": "Mutable default value for class attribute",
+    "name": "mutable-class-default",
+    "noqa_row": 147,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/mutable-class-default"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 85
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/check_actor_inputs.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 85
+    },
+    "message": "`main` is too complex (15 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 85,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 88
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/check_actor_inputs.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 88
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 88,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 148
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 148
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 148,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 18,
+      "row": 152
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 152
+    },
+    "message": "`check_publora` is too complex (13 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 152,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 217
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 217
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 217,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 18,
+      "row": 221
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 221
+    },
+    "message": "`check_pixfaro` is too complex (11 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 221,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 274
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 274
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 274,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 285
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/check_config.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 285
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 285,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 9,
+      "row": 61
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/check_no_secrets.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 61
+    },
+    "message": "`main` is too complex (11 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 61,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "E402",
+    "end_location": {
+      "column": 72,
+      "row": 27
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 1,
+      "row": 27
+    },
+    "message": "Module level import not at top of file",
+    "name": "module-import-not-at-top-of-file",
+    "noqa_row": 27,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/module-import-not-at-top-of-file"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 85
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 85
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 85,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 99
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/post_comment.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 99
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 99,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 105
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/schedule_post.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 105
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 105,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 32,
+      "row": 88
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 13,
+            "row": 92
+          },
+          "location": {
+            "column": 13,
+            "row": 92
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 18,
+      "row": 88
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 88,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 97
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 97
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 97,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 33,
+      "row": 125
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 34,
+            "row": 126
+          },
+          "location": {
+            "column": 34,
+            "row": 126
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 19,
+      "row": 125
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 125,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 23,
+      "row": 130
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 53,
+            "row": 130
+          },
+          "location": {
+            "column": 53,
+            "row": 130
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 9,
+      "row": 130
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 130,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 149
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 149
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 149,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 19,
+      "row": 153
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 153
+    },
+    "message": "`phase_accounts` is too complex (17 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 153,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 28,
+      "row": 257
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 29,
+            "row": 258
+          },
+          "location": {
+            "column": 29,
+            "row": 258
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 14,
+      "row": 257
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 257,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 29,
+      "row": 275
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 59,
+            "row": 275
+          },
+          "location": {
+            "column": 59,
+            "row": 275
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 15,
+      "row": 275
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 275,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "E741",
+    "end_location": {
+      "column": 45,
+      "row": 315
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 44,
+      "row": 315
+    },
+    "message": "Ambiguous variable name: `l`",
+    "name": "ambiguous-variable-name",
+    "noqa_row": 315,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-variable-name"
+  },
+  {
+    "cell": null,
+    "code": "C901",
+    "end_location": {
+      "column": 15,
+      "row": 326
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 5,
+      "row": 326
+    },
+    "message": "`phase_live` is too complex (15 > 10)",
+    "name": "complex-structure",
+    "noqa_row": 326,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/complex-structure"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 352
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 352
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 352,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 361
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 361
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 361,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 25,
+      "row": 377
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": null,
+    "location": {
+      "column": 16,
+      "row": 377
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 377,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 33,
+      "row": 452
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 34,
+            "row": 453
+          },
+          "location": {
+            "column": 34,
+            "row": 453
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 19,
+      "row": 452
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 452,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 469
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/selftest.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 31,
+            "row": 470
+          },
+          "location": {
+            "column": 31,
+            "row": 470
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 469
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 469,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 30,
+      "row": 73
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/scripts/sync_codex_marketplace.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 31,
+            "row": 74
+          },
+          "location": {
+            "column": 31,
+            "row": 74
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 16,
+      "row": 73
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 73,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 72
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 72
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 72,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 91
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 91
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 91,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 110
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 110
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 110,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 128
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 128
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 128,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 175
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 175
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 175,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 72
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 72
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 72,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 91
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 91
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 91,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 110
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 110
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 110,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 128
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 128
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 128,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 175
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 175
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 175,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 72
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 72
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 72,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 91
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 91
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 91,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 110
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 110
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 110,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 128
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 128
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 128,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "BLE001",
+    "end_location": {
+      "column": 21,
+      "row": 175
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/skills/linkedin-humanizer/scripts/test_detectors.py",
+    "fix": null,
+    "location": {
+      "column": 12,
+      "row": 175
+    },
+    "message": "Do not catch blind exception: `Exception`",
+    "name": "blind-except",
+    "noqa_row": 175,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/blind-except"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 72,
+      "row": 113
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/tests/test_instruction_integrity.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "[*markdown(ROOT / \"skills\"), ROOT / \"SKILL.md\"]",
+          "end_location": {
+            "column": 72,
+            "row": 113
+          },
+          "location": {
+            "column": 25,
+            "row": 113
+          }
+        }
+      ],
+      "message": "Replace with `[*markdown(ROOT / \"skills\"), ROOT / \"SKILL.md\"]`"
+    },
+    "location": {
+      "column": 25,
+      "row": 113
+    },
+    "message": "Consider `[*markdown(ROOT / \"skills\"), ROOT / \"SKILL.md\"]` instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 113,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 40,
+      "row": 226
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/tests/test_instruction_integrity.py",
+    "fix": null,
+    "location": {
+      "column": 39,
+      "row": 226
+    },
+    "message": "String contains ambiguous `–` (EN DASH). Did you mean `-` (HYPHEN-MINUS)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 226,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF012",
+    "end_location": {
+      "column": 6,
+      "row": 296
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/tests/test_instruction_integrity.py",
+    "fix": null,
+    "location": {
+      "column": 13,
+      "row": 293
+    },
+    "message": "Mutable default value for class attribute",
+    "name": "mutable-class-default",
+    "noqa_row": 293,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/mutable-class-default"
+  },
+  {
+    "cell": null,
+    "code": "RUF005",
+    "end_location": {
+      "column": 101,
+      "row": 35
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/tests/test_publora_shapes.py",
+    "fix": {
+      "applicability": "unsafe",
+      "edits": [
+        {
+          "content": "(*PubloraClient.LIVE_STATUSES, \"draft\", \"scheduled\", \"failed\")",
+          "end_location": {
+            "column": 101,
+            "row": 35
+          },
+          "location": {
+            "column": 39,
+            "row": 35
+          }
+        }
+      ],
+      "message": "Replace with iterable unpacking"
+    },
+    "location": {
+      "column": 39,
+      "row": 35
+    },
+    "message": "Consider iterable unpacking instead of concatenation",
+    "name": "collection-literal-concatenation",
+    "noqa_row": 35,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/collection-literal-concatenation"
+  },
+  {
+    "cell": null,
+    "code": "RUF012",
+    "end_location": {
+      "column": 6,
+      "row": 198
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/tests/test_response_shapes.py",
+    "fix": null,
+    "location": {
+      "column": 15,
+      "row": 191
+    },
+    "message": "Mutable default value for class attribute",
+    "name": "mutable-class-default",
+    "noqa_row": 191,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/mutable-class-default"
+  },
+  {
+    "cell": null,
+    "code": "PLW1510",
+    "end_location": {
+      "column": 26,
+      "row": 69
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/tests/test_text_encoding.py",
+    "fix": {
+      "applicability": "displayonly",
+      "edits": [
+        {
+          "content": "check=False, ",
+          "end_location": {
+            "column": 52,
+            "row": 69
+          },
+          "location": {
+            "column": 52,
+            "row": 69
+          }
+        }
+      ],
+      "message": "Add explicit `check=False`"
+    },
+    "location": {
+      "column": 12,
+      "row": 69
+    },
+    "message": "`subprocess.run` without explicit `check` argument",
+    "name": "subprocess-run-without-check",
+    "noqa_row": 69,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/subprocess-run-without-check"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 48,
+      "row": 91
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/tests/test_text_encoding.py",
+    "fix": null,
+    "location": {
+      "column": 47,
+      "row": 91
+    },
+    "message": "String contains ambiguous `’` (RIGHT SINGLE QUOTATION MARK). Did you mean ``` (GRAVE ACCENT)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 91,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  },
+  {
+    "cell": null,
+    "code": "RUF001",
+    "end_location": {
+      "column": 29,
+      "row": 99
+    },
+    "filename": "/home/rpulido/Documents/repos/skills/skills/skills/skills/linkedin-skills/tests/test_text_encoding.py",
+    "fix": null,
+    "location": {
+      "column": 28,
+      "row": 99
+    },
+    "message": "String contains ambiguous `’` (RIGHT SINGLE QUOTATION MARK). Did you mean ``` (GRAVE ACCENT)?",
+    "name": "ambiguous-unicode-character-string",
+    "noqa_row": 99,
+    "severity": "error",
+    "url": "https://docs.astral.sh/ruff/rules/ambiguous-unicode-character-string"
+  }
+]
