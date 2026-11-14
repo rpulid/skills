@@ -55,3 +55,8 @@ The modern toolchain improves reproducibility, code quality, and security postur
 4. Pytest – Testing framework.
 5. Detect‑Secrets – Secret‑scanning utility.
 6. Pip‑Audit – Dependency‑vulnerability scanner.
+
+
+## Documentation
+
+* [Skill authoring best practices (Claude docs)](docs/claude-skill-authoring-best-practices.md)
