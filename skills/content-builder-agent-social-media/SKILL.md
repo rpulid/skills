@@ -1,15 +1,11 @@
 ---
 name: content-builder-agent-social-media
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Drafts engaging social media posts, writes hooks, suggests hashtags, creates thread structures, and generates companion images. Use when the user asks to write a LinkedIn post, tweet, Twitter/X thread, social media caption, social post, or repurpose content for social platforms."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: social-media
-description: Drafts engaging social media posts, writes hooks, suggests hashtags, creates thread structures, and generates companion images. Use when the user asks to write a LinkedIn post, tweet, Twitter/X thread, social media caption, social post, or repurpose content for social platforms.
----
 
 # Social Media Content Skill
 

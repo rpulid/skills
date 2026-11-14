@@ -1,15 +1,11 @@
 ---
 name: cudf-analytics
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Use for GPU-accelerated data analysis on datasets, CSVs, or tabular data using NVIDIA cuDF. Triggers when tasks involve groupby aggregations, statistical summaries, anomaly detection, or large-scale data profiling."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: cudf-analytics
-description: Use for GPU-accelerated data analysis on datasets, CSVs, or tabular data using NVIDIA cuDF. Triggers when tasks involve groupby aggregations, statistical summaries, anomaly detection, or large-scale data profiling.
----
 
 # cuDF Analytics Skill
 

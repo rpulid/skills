@@ -1,15 +1,11 @@
 ---
 name: fastmcp-client-cli
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Query and invoke tools on MCP servers using fastmcp list and fastmcp call. Use when you need to discover what tools a server offers, call tools, or integrate MCP servers into workflows."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: fastmcp-client-cli
-description: Query and invoke tools on MCP servers using fastmcp list and fastmcp call. Use when you need to discover what tools a server offers, call tools, or integrate MCP servers into workflows.
----
 
 # FastMCP CLI: List and Call
 

@@ -1,15 +1,11 @@
 ---
 name: deploy-content-writer-social-media-2
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Create social media posts optimized for engagement across platforms."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: social-media
-description: Create social media posts optimized for engagement across platforms.
----
 
 # Social Media Content
 

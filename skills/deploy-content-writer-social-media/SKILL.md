@@ -1,15 +1,11 @@
 ---
 name: deploy-content-writer-social-media
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Create social media content including Twitter/X threads, LinkedIn posts, and short-form updates."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: social-media
-description: Create social media content including Twitter/X threads, LinkedIn posts, and short-form updates.
----
 
 # Social Media Content Skill
 

@@ -2,6 +2,7 @@
 name: habilidad-principios-ux
 description: "Migrated skill bundle (see SKILL.md body)."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
@@ -95,52 +96,6 @@ Nunca sacrifiques la identidad de marca o la confianza del usuario por un truco 
 | **Hierarchy of Trust** | Esta página sirve users at level 2-3 (interest → confidence). No asks for the sale here. |
 | **Transparency** | Honest about limitations, not just strengths. Vulnerability builds trust. |
 
----
-
-## Categorías de Principios (11 categorias — total: 65 principios)
-
-| Categoría | Count | Core Insight |
-|----------|-------|--------------|
-| Attention | 4 | Users see less than you think |
-| Gestalt | 8 | Visual grouping drives comprehension |
-| Memory | 10 | Recognition beats recall; chunk everything |
-| Sensemaking | 3 | Mental models shape expectations |
-| Decision Making | 5 | Fewer choices, clearer outcomes |
-| Motor/Interaction | 3 | Big targets, fast responses |
-| Motivation | 4 | Autonomy + competence + relatedness |
-| Cognitive Biases | 10 | Defaults persist; first impressions anchor |
-| Persuasion | 9 | Trust before ask; prove before promise |
-| Emotion | 6 | Beautiful feels easier; delight earns loyalty |
-| Ethics | 3 | Bright line between persuasion and manipulation |
-
-### Búsqueda Rápil por Principio
-
-Cada principio tiene:
-- **Definición concisa** — qué significa en contexto UX
-- **Aplicación prática** — qué hacer en diseño
-- **Anti-patrón** — qué evitar
-- **Implicaciones de diseño** — qué cambiar en markup, layout o copy
-
-### Peso de Principios en Decisiones de Diseño
-
-1. **Brand identity** — El diseño debe resonar con los valores y personalidad de la marca
-2. **Accesibilidad** — WCAG compliance es no negociable; contraste de color mínimo, targets táctiles tamaño
-3. **Performance** — Diseño responsive, loading times aceptables, recursos optimizados
-4. **Principios UX** — Influencia sutil en decisiones de layout, copy y jerarquía visual
-
-### Anti-Patrones (Nunca Hagas)
-
-- **Fake scarcity counters** — si no es real, no lo muestre
-- **Confirmshaming** — "No, I don't want to save money" es manipulativo
-- **Hidden costs at checkout** — la #1 causa de carrito abandonment
-- **Forced continuity** — suscripciones difficult-to-cancel erosion all trust
-- **Misdirection** — tricks visuales para forzar clicks equivocados
-- **Fake social proof** — testimonios fabricados o números inflados
-- **Dark defaults** — pre-checking opt-ins que el usuario no pidió
-- **Roach motel patterns** — fácil entrar, impossible salir
-
----
-
 ## Fuentes y Fundamentos
 
 1. **Kahneman (Prospect Theory)** — losses hurt ~2x más que gains equivalentes
@@ -184,20 +139,6 @@ Cada principio tiene:
 ```
 
 **Por qué:** El tier destacado se convierte en el anchor. Basic feels like una ganga por comparación. Enterprise existe para hacer Pro se vea razonable. El badge "Most Popular" añade social proof.
-
----
-
-## Plantilla de Revisión de Diseño
-
-Al revisar un diseño, pregunta:
-
-1. ¿Qué principios UX psicológicos estoy aplicando intencionalmente?
-2. ¿Cuáles me estoy perdiendo para el tipo de página o componente?
-3. ¿Algún anti-patrón está violando sin darme cuenta?
-4. ¿Pesa cada principio contra brand, accessibility y technical quality en la jerarquía correcta?
-5. ¿Qué cambio específico y implementable recomiendo?
-
----
 
 ## Versión y Mantimiento
 

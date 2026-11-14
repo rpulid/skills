@@ -1,15 +1,11 @@
 ---
 name: python-tests
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Write and evaluate effective Python tests using pytest. Use when writing tests, reviewing test code, debugging test failures, or improving test coverage. Covers test design, fixtures, parameterization, mocking, and async testing."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: testing-python
-description: Write and evaluate effective Python tests using pytest. Use when writing tests, reviewing test code, debugging test failures, or improving test coverage. Covers test design, fixtures, parameterization, mocking, and async testing.
----
 
 # Writing Effective Python Tests
 

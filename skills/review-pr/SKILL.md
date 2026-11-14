@@ -1,15 +1,11 @@
 ---
 name: review-pr
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Monitor and respond to automated PR reviews (Codex bot). Use when pushing a PR, checking review status, or responding to bot feedback. Handles the full cycle of push -> wait for review -> evaluate comments -> fix -> re-push."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: review-pr
-description: Monitor and respond to automated PR reviews (Codex bot). Use when pushing a PR, checking review status, or responding to bot feedback. Handles the full cycle of push -> wait for review -> evaluate comments -> fix -> re-push.
----
 
 # PR Review Workflow
 

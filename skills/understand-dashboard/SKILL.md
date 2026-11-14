@@ -1,16 +1,11 @@
 ---
 name: understand-dashboard
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Launch the interactive web dashboard to visualize a codebase's knowledge graph"
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: understand-dashboard
-description: Launch the interactive web dashboard to visualize a codebase's knowledge graph
-argument-hint: "[project-path]"
----
 
 # /understand-dashboard
 

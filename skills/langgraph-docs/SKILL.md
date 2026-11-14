@@ -1,15 +1,11 @@
 ---
 name: langgraph-docs
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Fetches and references LangGraph Python documentation to build stateful agents, create multi-agent workflows, and implement human-in-the-loop patterns. Use when the user asks about LangGraph, graph agents, state machines, agent orchestration, LangGraph API, or needs LangGraph implementation guidance."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: langgraph-docs
-description: Fetches and references LangGraph Python documentation to build stateful agents, create multi-agent workflows, and implement human-in-the-loop patterns. Use when the user asks about LangGraph, graph agents, state machines, agent orchestration, LangGraph API, or needs LangGraph implementation guidance.
----
 
 # langgraph-docs
 

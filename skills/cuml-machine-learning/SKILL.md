@@ -1,15 +1,11 @@
 ---
 name: cuml-machine-learning
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Use for GPU-accelerated machine learning on tabular data using NVIDIA cuML. Triggers when tasks involve classification, regression, clustering, dimensionality reduction, or model training on datasets."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: cuml-machine-learning
-description: Use for GPU-accelerated machine learning on tabular data using NVIDIA cuML. Triggers when tasks involve classification, regression, clustering, dimensionality reduction, or model training on datasets.
----
 
 # cuML Machine Learning Skill
 

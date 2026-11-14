@@ -1,16 +1,11 @@
 ---
 name: understand-explain
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Use when you need a deep-dive explanation of a specific file, function, or module in the codebase"
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: understand-explain
-description: Use when you need a deep-dive explanation of a specific file, function, or module in the codebase
-argument-hint: "[file-path]"
----
 
 # /understand-explain
 

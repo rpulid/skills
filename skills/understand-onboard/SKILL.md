@@ -1,15 +1,11 @@
 ---
 name: understand-onboard
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Use when you need to generate an onboarding guide for new team members joining a project"
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: understand-onboard
-description: Use when you need to generate an onboarding guide for new team members joining a project
----
 
 # /understand-onboard
 

@@ -1,16 +1,11 @@
 ---
 name: sample-skills-code-review
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Review code for quality, maintainability, and correctness"
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-description: Review code for quality, maintainability, and correctness
-version: "1.0.0"
-tags: [code, review, quality]
----
 
 # Code Review Skill
 

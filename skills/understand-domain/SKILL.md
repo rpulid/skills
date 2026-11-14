@@ -1,16 +1,11 @@
 ---
 name: understand-domain
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Extract business domain knowledge from a codebase and generate an interactive domain flow graph. Works standalone (lightweight scan) or derives from an existing /understand knowledge graph."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: understand-domain
-description: Extract business domain knowledge from a codebase and generate an interactive domain flow graph. Works standalone (lightweight scan) or derives from an existing /understand knowledge graph.
-argument-hint: "[--full]"
----
 
 # /understand-domain
 

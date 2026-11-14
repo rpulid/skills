@@ -1,15 +1,11 @@
 ---
 name: query-writing
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Writes and executes SQL queries from simple SELECTs to complex multi-table JOINs, aggregations, and subqueries. Use when the user asks to query a database, write SQL, run a SELECT statement, retrieve data, filter records, or generate reports from database tables."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: query-writing
-description: Writes and executes SQL queries from simple SELECTs to complex multi-table JOINs, aggregations, and subqueries. Use when the user asks to query a database, write SQL, run a SELECT statement, retrieve data, filter records, or generate reports from database tables.
----
 
 # Query Writing Skill
 

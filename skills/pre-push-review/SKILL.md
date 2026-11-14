@@ -1,25 +1,11 @@
 ---
 name: pre-push-review
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Review the current branch against main, simulating the automated CI review from the bots workflow"
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-description: Review the current branch against main, simulating the automated CI review from the bots workflow
-allowed-tools:
-  - Read
-  - Glob
-  - Grep
-  - Bash(git diff:*)
-  - Bash(git log:*)
-  - Bash(git merge-base:*)
-  - Bash(git status:*)
-  - Bash(git rev-parse:*)
-  - WebSearch
-  - WebFetch
----
 
 # Pre-push Review
 

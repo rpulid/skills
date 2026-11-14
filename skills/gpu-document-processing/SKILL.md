@@ -1,15 +1,11 @@
 ---
 name: gpu-document-processing
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Use when processing large PDFs, document collections, or bulk text extraction tasks that benefit from GPU-accelerated processing. Triggers when the user provides large documents or needs bulk document analysis."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: gpu-document-processing
-description: Use when processing large PDFs, document collections, or bulk text extraction tasks that benefit from GPU-accelerated processing. Triggers when the user provides large documents or needs bulk document analysis.
----
 
 # GPU Document Processing Skill
 

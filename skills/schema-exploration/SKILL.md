@@ -1,15 +1,11 @@
 ---
 name: schema-exploration
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Lists tables, describes columns and data types, identifies foreign key relationships, and maps entity relationships in a database. Use when the user asks about database schema, table structure, column types, what tables exist, ERD, foreign keys, or how entities relate."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: schema-exploration
-description: Lists tables, describes columns and data types, identifies foreign key relationships, and maps entity relationships in a database. Use when the user asks about database schema, table structure, column types, what tables exist, ERD, foreign keys, or how entities relate.
----
 
 # Schema Exploration Skill
 
@@ -137,7 +133,6 @@ This requires the query-writing skill to execute.
 - Map the JOIN path
 - Explain the relationship chain
 - Suggest next steps (use query-writing skill)
-
 
 ## References
 

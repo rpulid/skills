@@ -1,15 +1,11 @@
 ---
 name: data-visualization
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Use for creating publication-quality charts and multi-panel analysis summaries. Triggers when tasks involve visualizing data, plotting results, creating charts, or producing visual reports from analysis output."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: data-visualization
-description: Use for creating publication-quality charts and multi-panel analysis summaries. Triggers when tasks involve visualizing data, plotting results, creating charts, or producing visual reports from analysis output.
----
 
 # Data Visualization Skill
 

@@ -2,6 +2,7 @@
 name: habilidad-evaluacion-digital
 description: "Migrated skill bundle (see SKILL.md body)."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
@@ -77,20 +78,6 @@ Nunca recomendes un ajuste que el adolescente no pueda implementar por falta de 
 | **FOMO (Fear of Missing Out)** | ¿Siente ansiedad por no estar al día con las actualizaciones? | Validar: es mecanismo evolutivo de supervivencia, no falta de fuerza de voluntad |
 | **Comparación Social Ascendente** | ¿Compara su "detrás de cámaras" con la "exposición de museo" de pares? | Enseñar: "Un perfil en redes es como una galería de arte hiper-seleccionada, nadie expone sus fracasos" |
 | **Desintoxicar el Algoritmo** | ¿Sabe que puede curar su propio feed? | Recomendación: "Ustedes son los programadores de su algoritmo y deben cuidar su espacio mental" |
-
----
-
-## Anti-Patrones de Evaluación (Nunca Hagas)
-
-- **Etiquetar definitivamente** — "es adicto a redes sociales" sin evaluación completa
-- **Pánico moral** — "las redes sociales son inherentemente nocivas" sin evidencia balanceada
-- **Decisiones sin el adolescente** — recomendar ajuste que elimine su autonomía
-- **Terorismo basado en riesgo** — infundir miedo sobre riesgos digitales (contraproducentes)
-- **Solo enfoque verbatim** — solo analizar riesgos como cálculos literales, ignorar significado global
-- **Solo enfoque giST** — solo dar juicios categóricos sin ejemplos concretos y contexto
-- **Ignorar recursos locales** — no mencionar Línea 075 (SALME) o Policía Cibernética 33 3837 6000 cuando sea relevante
-
----
 
 ## Recursos Locales Jalisco
 

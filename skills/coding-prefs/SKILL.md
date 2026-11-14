@@ -1,15 +1,11 @@
 ---
 name: coding-prefs
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Read the user's coding preferences from /memory/coding-prefs.md before making non-trivial style decisions, and append new preferences when the user gives durable feedback."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: coding-prefs
-description: Read the user's coding preferences from /memory/coding-prefs.md before making non-trivial style decisions, and append new preferences when the user gives durable feedback.
----
 
 # Coding Preferences Skill
 

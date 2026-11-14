@@ -1,15 +1,11 @@
 ---
 name: planning
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Break down a coding task into a structured implementation plan with clear steps, file identification, and risk assessment."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: planning
-description: Break down a coding task into a structured implementation plan with clear steps, file identification, and risk assessment.
----
 
 # Planning Skill
 

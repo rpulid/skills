@@ -1,16 +1,11 @@
 ---
 name: understand-knowledge
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with entity extraction, implicit relationships, and topic clustering."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: understand-knowledge
-description: Analyze a Karpathy-pattern LLM wiki knowledge base and generate an interactive knowledge graph with entity extraction, implicit relationships, and topic clustering.
-argument-hint: "[wiki-directory]"
----
 
 # /understand-knowledge
 

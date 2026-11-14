@@ -1,20 +1,11 @@
 ---
 name: search-mcp-github
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "The topic or keyword to search for"
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: search-mcp-github
-description: Search MCP PRs, issues, and discussions across the modelcontextprotocol GitHub org
-user_invocable: true
-arguments:
-  - name: topic
-    description: The topic or keyword to search for
-    required: true
----
 
 # Searching MCP PRs, issues, and discussions
 

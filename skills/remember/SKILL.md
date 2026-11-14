@@ -1,17 +1,11 @@
 ---
 name: remember
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "What this skill does AND when to use it. Include triggers like 'when the user asks to X' or 'when working with Y'. This description determines when the skill activates."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: remember
-description: "Review the current conversation and capture valuable knowledge — best practices, coding conventions, architecture decisions, workflows, and user feedback — into persistent memory (AGENTS.md) or reusable skills. Use when the user says: (1) remember this, (2) save what we learned, (3) update memory, (4) capture learnings."
-license: MIT
-compatibility: designed for deepagents-cli
----
 
 Review our conversation and capture valuable knowledge. Focus especially on **best practices** we discussed or discovered—these are the most important things to preserve.
 
@@ -74,11 +68,6 @@ skill-name/
 
 ### SKILL.md Format
 ```markdown
----
-name: skill-name
-description: "What this skill does AND when to use it. Include triggers like 'when the user asks to X' or 'when working with Y'. This description determines when the skill activates."
----
-
 # Skill Name
 
 ## Overview

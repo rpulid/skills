@@ -1,15 +1,11 @@
 ---
 name: content-builder-agent-blog-post
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Writes and structures long-form blog posts, creates tutorial outlines, and optimizes content for SEO with cover image generation. Use when the user asks to write a blog post, article, how-to guide, tutorial, technical writeup, thought leadership piece, or long-form content."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: blog-post
-description: Writes and structures long-form blog posts, creates tutorial outlines, and optimizes content for SEO with cover image generation. Use when the user asks to write a blog post, article, how-to guide, tutorial, technical writeup, thought leadership piece, or long-form content.
----
 
 # Blog Post Writing Skill
 

@@ -1,15 +1,11 @@
 ---
 name: deploy-content-writer-blog-post
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Write structured long-form blog posts with research, SEO optimization, and cover image generation."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: blog-post
-description: Write structured long-form blog posts with research, SEO optimization, and cover image generation.
----
 
 # Blog Post Writing Skill
 

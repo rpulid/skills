@@ -1,15 +1,11 @@
 ---
 name: code-review
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Review code for quality, maintainability, and correctness. Use when reviewing pull requests, evaluating code changes, or providing feedback on implementations. Focuses on API design, patterns, and actionable feedback."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: reviewing-code
-description: Review code for quality, maintainability, and correctness. Use when reviewing pull requests, evaluating code changes, or providing feedback on implementations. Focuses on API design, patterns, and actionable feedback.
----
 
 # Code Review
 

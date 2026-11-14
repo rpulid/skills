@@ -1,16 +1,11 @@
 ---
 name: pdf-processing
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Extract text from PDFs, fill forms, and merge documents"
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-description: Extract text from PDFs, fill forms, and merge documents
-version: "1.0.0"
-tags: [document, pdf, extraction]
----
 
 # PDF Processing Skill
 

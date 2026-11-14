@@ -1,15 +1,11 @@
 ---
 name: deploy-coding-agent-code-review
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Perform a structured code review of changes, checking for correctness, style, tests, and potential issues."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: code-review
-description: Perform a structured code review of changes, checking for correctness, style, tests, and potential issues.
----
 
 # Code Review Skill
 

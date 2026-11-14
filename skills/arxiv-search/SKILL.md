@@ -1,15 +1,11 @@
 ---
 name: arxiv-search
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Searches arXiv for preprints and academic papers, retrieves abstracts, and filters by topic. Use when the user asks to find research papers, search arXiv, look up preprints, find academic articles in physics, math, CS, biology, statistics, or related fields."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: arxiv-search
-description: Searches arXiv for preprints and academic papers, retrieves abstracts, and filters by topic. Use when the user asks to find research papers, search arXiv, look up preprints, find academic articles in physics, math, CS, biology, statistics, or related fields.
----
 
 # arXiv Search Skill
 

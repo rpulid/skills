@@ -1,15 +1,11 @@
 ---
 name: understand-diff
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Use when you need to analyze git diffs or pull requests to understand what changed, affected components, and risks"
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: understand-diff
-description: Use when you need to analyze git diffs or pull requests to understand what changed, affected components, and risks
----
 
 # /understand-diff
 

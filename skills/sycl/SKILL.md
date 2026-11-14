@@ -1,15 +1,11 @@
 ---
 name: sycl
-description: "Migrated skill bundle (see SKILL.md body)."
+description: "Repo-specific guidance for the sycl/ tree of this repo: the SYCL runtime, headers, tools and their tests. Use it for any task that touches code under sycl/, including PR reviews, bug fixes, extensions. It routes to a per-topic guide and carries the conventions every sycl/ change must follow."
 ---
+
 ## Abstract
 
 [TODO: Write abstract]
-
----
-name: sycl
-description: "Repo-specific guidance for the sycl/ tree of this repo: the SYCL runtime, headers, tools and their tests. Use it for any task that touches code under sycl/, including PR reviews, bug fixes, extensions. It routes to a per-topic guide and carries the conventions every sycl/ change must follow."
----
 
 # Working in `sycl/`
 
