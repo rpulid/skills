@@ -2,7 +2,7 @@
 
 ## Abstract
 
-The Skills Bundle aggregates a curated collection of Claude Code and Codex skill bundles, delivering a unified, discoverable entry point for Claude Code agents. It spans domains such as AI research, code understanding, and LinkedIn automation, organized under the `@skills` directory with each bundle encapsulating its own documentation, implementations, and tests. The repository follows a modern Python toolchain (uv, ruff, mypy, pytest) and a CI pipeline that enforces linting, type‑checking, security scanning, and test execution, while a `.claude/skills` symlink enables seamless skill discovery by Claude Code.
+The Skills Bundle aggregates a curated collection of Claude Code and Codex skill bundles, delivering a unified, discoverable entry point for Claude Code agents. It spans domains such as AI research, code understanding, and LinkedIn automation, The repository follows a modern Python toolchain (uv, ruff, mypy, pytest) and a CI pipeline that enforces linting, type‑checking, security scanning, and test execution, while a `.claude/skills` symlink enables seamless skill discovery by Claude Code.
 
 ## Introduction
 

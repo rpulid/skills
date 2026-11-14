@@ -2,7 +2,7 @@
 
 ## Abstract
 
-The AGENTS documentation enumerates all agent definitions employed across the Skills Bundle, detailing their responsibilities, supported tools, usage guidelines, and example prompts. Agents are grouped by functional domain and reference the corresponding skill bundles in `@skills`, providing a coherent reference for developers extending or customizing the skill ecosystem.
+The AGENTS documentation enumerates all agent definitions employed across the Skills Bundle, detailing their responsibilities, supported tools, usage guidelines, and example prompts. Agents are grouped by functional domain providing a coherent reference for developers extending or customizing the skill ecosystem.
 
 ## Introduction
 
