@@ -1,0 +1,14 @@
+# Linkedin Reply Handler
+
+## Abstract
+
+Draft a reply to one LinkedIn comment from its URL, or sweep a whole thread from just the post URL and draft a reply to every comment worth answering, in one batch. Use for replying to a comment, following an author reply, or clearing all comments on a post. Resolves the correct parentComment (LinkedIn flattens threads to 2 levels), filters low-value comments before a sweep, and posts via Publora on approval. Not for top-level comments (use linkedin-comment-drafter).
+
+## Contents
+
+- `SKILL.md`
+- `references`
+
+## Notes
+
+This folder follows the repository’s flat skill bundle contract. See `SKILL.md` for the canonical skill definition.

@@ -1,0 +1,14 @@
+# Linkedin Post Writer
+
+## Abstract
+
+Draft a new LinkedIn post from scratch using one of 20 2026 hook formulas (anaphora, R.I.P., time-anchor, curiosity-gap, contrarian, controlled A/B, false-binary, and more) plus a founders-edition angle library, picked by engagement goal (comments, reposts, likes, saves). Runs the humanizer pass and schedules via Publora on approval. Use to write a post, find a hook or proven format, or get founder-specific angles. Not for reviewing existing drafts (use linkedin-humanizer --mode audit).
+
+## Contents
+
+- `SKILL.md`
+- `references`
+
+## Notes
+
+This folder follows the repository’s flat skill bundle contract. See `SKILL.md` for the canonical skill definition.
